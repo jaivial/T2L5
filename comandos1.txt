@@ -1,0 +1,2 @@
+1.	Llista tots els fitxers del directori bin.  
+ls -d *
