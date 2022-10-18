@@ -1,2 +1,7 @@
 1.	Llista tots els fitxers del directori bin.  
 ls -d *
+
+2.	Llista tots els fitxers del directori tmp.  
+cd ..
+cd tmp
+ls | grep -v '^d'
