@@ -5,3 +5,8 @@ ls -d *
 cd ..
 cd tmp
 ls | grep -v '^d'
+
+3.	Llista tots els fitxers del directori etc que comencen amb t en ordre invers.  
+cd ..
+cd etc
+ls | grep -v '^d' | grep ^t
