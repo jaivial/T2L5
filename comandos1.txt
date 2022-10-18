@@ -13,3 +13,6 @@ ls | grep -v '^d' | grep ^t
 
 4.	Llista tots els fitxers del directori dev que comencen amb tty i tenen 5 caràcters de llarg.  
 ls | grep -v '^d' | grep ^tty | cut -c -5
+
+5.	Llista tots els fitxers del directori dev que comencen amb tty i acaben en 1,2,3 o 4.  
+ls tty*[1-4]
