@@ -17,3 +17,4 @@ pwd
 df -i
 
 16.	Crear un directori PRUEBA 
+mkdir prueba 
