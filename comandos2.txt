@@ -1,0 +1,25 @@
+10.	Canvia al directori tmp.  
+cd ../tmp
+
+11.	Comproveu que el directori actual ha canviat.  
+pwd
+
+12.	Mostra el dia i l'hora actuals.  
+date
+
+13.	Amb una única ordre, posiciona’t en el directori $HOME.  
+cd ../$home 
+
+14.	Comprova que hi ets.  
+pwd 
+
+15.	Llista tots els fitxers del directori HOME mostrant el seu número d'inodo.  
+df -i
+
+16.	Crear un directori PRUEBA 
+mkdir prueba 
+
+17.	Creeu els directoris dir1, dir2 i dir3 al directori PRUEBA. Dins de dir1 creeu el directori dir11. Dins del directori dir3 creeu el directori dir31. Dins del directori dir31, creeu els directoris dir311 i dir312. 
+mkdir -p prueba/{dir1/dir11,dir2,dir3{dir31{dir311,dir312},dir32}}
+
+18.	Copieu el fitxer /etc/hostname a un fitxer anomenat mensaje del directori PRUEBA.  
