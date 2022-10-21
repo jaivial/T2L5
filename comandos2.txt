@@ -6,3 +6,6 @@ pwd
 
 12.	Mostra el dia i l'hora actuals.  
 date
+
+13.	Amb una única ordre, posiciona’t en el directori $HOME.  
+cd ../home 
