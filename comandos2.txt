@@ -1,2 +1,5 @@
 10.	Canvia al directori tmp.  
 cd ../tmp
+
+11.	Comproveu que el directori actual ha canviat.  
+pwd
