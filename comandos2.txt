@@ -3,3 +3,6 @@ cd ../tmp
 
 11.	Comproveu que el directori actual ha canviat.  
 pwd
+
+12.	Mostra el dia i l'hora actuals.  
+date
