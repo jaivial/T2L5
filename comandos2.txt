@@ -12,3 +12,6 @@ cd ../home
 
 14.	Comprova que hi ets.  
 pwd 
+
+15.	Llista tots els fitxers del directori HOME mostrant el seu número d'inodo.  
+df -i
