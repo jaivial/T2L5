@@ -9,3 +9,6 @@ date
 
 13.	Amb una única ordre, posiciona’t en el directori $HOME.  
 cd ../home 
+
+14.	Comprova que hi ets.  
+pwd 
