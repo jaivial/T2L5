@@ -8,10 +8,12 @@ pwd
 date
 
 13.	Amb una única ordre, posiciona’t en el directori $HOME.  
-cd ../home 
+cd ../$home 
 
 14.	Comprova que hi ets.  
 pwd 
 
 15.	Llista tots els fitxers del directori HOME mostrant el seu número d'inodo.  
 df -i
+
+16.	Crear un directori PRUEBA 
